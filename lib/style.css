@@ -1,2 +1,39 @@
 /* Add your styles here */
 
+h1{
+    margin-left: 43%;
+    color: cyan;
+}
+
+#add {
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+#edit {
+    margin-left: 40%;
+}
+
+#toggall {
+    margin-left: 40%;
+}
+
+.btn{
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    margin-left: 40%;
+    margin-top: 10px;
+}
+
+.h1{
+    height: 60px;
+}
+
+.ul{
+    margin-top: 40px;
+}
